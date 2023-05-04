@@ -17,8 +17,8 @@
 
 > When the any problem has the **greedy choice property** and the **optimal substructure, the Greedy Algorithms comes for help.**
 
-- **Greedy Choice Property -** bu qachonki muammoni yechayotganimizda unga eng optimal variant topib muammoning har bir bosqichida eng yaxshi tanlovni tanlash orqali ( eng oxirgi boshqichdagi tanlangan tanlovni o’ylamasdan ) muamo yecha olinsa, bunday holatni **********************\*\***********************Greedy Choice Property**********************\*\*********************** deb ataymiz.
-- **********\*\*\*\***********Optimal Substructure**********\*\*\*\*********** - bu qachonki muammoning yechimi uning kichik muammolarning optimal yechimiga mos kelsa, bunday holatda muammo **************\*\***************greedy approach**************\*\*************** dan foydalanib yechish mumkin, va bu ************************\*\*************************Optimal Substructure************************\*\************************* deb ataladi.
+- **Greedy Choice Property** - bu qachonki muammoni yechayotganimizda unga eng optimal variant topib muammoning har bir bosqichida eng yaxshi tanlovni tanlash orqali ( eng oxirgi boshqichdagi tanlangan tanlovni o’ylamasdan ) muamo yecha olinsa, bunday holatni **Greedy Choice Property** deb ataymiz.
+- **Optimal Substructure** - bu qachonki muammoning yechimi uning kichik muammolarning optimal yechimiga mos kelsa, bunday holatda muammo **greedy approach** dan foydalanib yechish mumkin, va bu **Optimal Substructure** deb ataladi.
 
 ---
 

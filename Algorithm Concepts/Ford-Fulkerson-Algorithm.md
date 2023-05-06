@@ -26,12 +26,9 @@
 
 ![](../Data%20/Equilibrium.png)
 
-Final Wrap-ups of the Ford-Fulkerson Algorithm:
+### Final Wrap-ups of the Ford-Fulkerson Algorithm:
 
-<aside>
-  ✈️ This Algorithm follows the below rules to find the maximum flow of the Sink in the flow network or graph.  Clearly, in each iteration, we have to do a **Depth-First Search  (DFS)** which has time complexity of **Big O e.**
-
-</aside>
+> ✈️ This Algorithm follows the below rules to find the maximum flow of the Sink in the flow network or graph. Clearly, in each iteration, we have to do a **Depth-First Search (DFS)** which has time complexity of **Big O e.**
 
 Let’s you want to find the maximum number of the flow iterations in the graph and by just counting the total flow value, will gives us the end result 😄.
 

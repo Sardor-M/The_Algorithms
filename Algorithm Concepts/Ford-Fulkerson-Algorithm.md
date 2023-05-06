@@ -10,13 +10,13 @@
 
 ## Flow Network Example Graph :
 
-![Flow-Network]("Data/Flow-Network.png")
+![](../Data%20/Flow-Network.png)
 
 > Here, the **S** will be our Source and the **T** will be our Sink. When we start to calculate the maximum flow in the graph, we set the Sink (T) to 0 ( as a default ).
 
 ### Number on the Left and Right :
 
-![Screenshot 2023-05-05 at 12.02.58 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3eb743fd-203e-4158-9b4c-ec74b94ddd07/Screenshot_2023-05-05_at_12.02.58_AM.png)
+![](../Data%20/Left%20and%20Right.png)
 
 - Below picture is the last iteration of the searching for the path. As we can see form the graph, there is bottleneck capacity from C to D ( which is 3 ) and the flow is augmented by applying the possible capacity to the in and out nodes as **equilibrium**
 
@@ -24,7 +24,7 @@
 
 > Well, each node after augmenting the flow, the node must be **equilibrium** meaning that the flow into the node must be equal to the flow out of the node.
 
-![Screenshot 2023-05-05 at 12.16.26 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7def3f9-a15f-4488-be06-493360200349/Screenshot_2023-05-05_at_12.16.26_AM.png)
+![](../Data%20/Equilibrium.png)
 
 Final Wrap-ups of the Ford-Fulkerson Algorithm:
 
@@ -35,7 +35,7 @@ Final Wrap-ups of the Ford-Fulkerson Algorithm:
 
 Let’s you want to find the maximum number of the flow iterations in the graph and by just counting the total flow value, will gives us the end result 😄.
 
-![Screenshot 2023-05-05 at 12.15.49 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02d4f05a-f6e0-41d3-8c69-71a8d21d85c9/Screenshot_2023-05-05_at_12.15.49_AM.png)
+![](../Data%20/Wrap-up.png)
 
 📎 **Reference:**
 

@@ -10,7 +10,7 @@
 
 ## Flow Network Example Graph :
 
-![Screenshot 2023-05-04 at 11.59.22 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a919e08c-9010-4754-a69c-bf0333c472e5/Screenshot_2023-05-04_at_11.59.22_PM.png)
+![Flow-Network]("Data/Flow-Network.png")
 
 > Here, the **S** will be our Source and the **T** will be our Sink. When we start to calculate the maximum flow in the graph, we set the Sink (T) to 0 ( as a default ).
 
@@ -38,3 +38,8 @@ Let’s you want to find the maximum number of the flow iterations in the graph 
 ![Screenshot 2023-05-05 at 12.15.49 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02d4f05a-f6e0-41d3-8c69-71a8d21d85c9/Screenshot_2023-05-05_at_12.15.49_AM.png)
 
 📎 **Reference:**
+
+| Article or Blog Title                 | Link Url                                               |
+| ------------------------------------- | ------------------------------------------------------ |
+| Ford-Fulkerson in 5 minutes - Youtube | https://www.youtube.com/watch?v=Tl90tNtKvxs            |
+| Ford-Fulkerson Algorithm - Programiz  | https://www.programiz.com/dsa/ford-fulkerson-algorithm |
